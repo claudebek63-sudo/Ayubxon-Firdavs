@@ -1,0 +1,6 @@
+{
+  "name": "Azbuka — Rus tili alifbosi va lug'ati",
+  "description": "Rus tili alifbosini o'rganish, interaktiv mashqlar, ta'limiy o'yinlar, ruscha-o'zbekcha lug'at va shaxsiy statistika platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
